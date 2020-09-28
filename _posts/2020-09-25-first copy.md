@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Sound Test Post
+categories: test
 ---
 
 This is an example soundcloud link: 

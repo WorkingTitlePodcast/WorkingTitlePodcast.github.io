@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Embedding our own goodies
+categories: test example
 ---
 
 This is an example soundcloud link, this time it should be our own audio!: 
