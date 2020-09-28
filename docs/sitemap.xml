@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/2020/09/25/first-copy.html</loc>
+<loc>/test/2020/09/25/first-copy.html</loc>
 <lastmod>2020-09-25T00:00:00-04:00</lastmod>
 </url>
 <url>
@@ -9,7 +9,7 @@
 <lastmod>2020-09-25T23:11:23-04:00</lastmod>
 </url>
 <url>
-<loc>/2020/09/27/its-go-time.html</loc>
+<loc>/test/example/2020/09/27/its-go-time.html</loc>
 <lastmod>2020-09-27T00:00:00-04:00</lastmod>
 </url>
 <url>
@@ -26,8 +26,5 @@
 </url>
 <url>
 <loc>/</loc>
-</url>
-<url>
-<loc>/tags.html</loc>
 </url>
 </urlset>

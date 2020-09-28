@@ -86,9 +86,9 @@ html[data-header-transparent] header.site-header { position: fixed; }
 
 html[data-scroll-status='top'] header.site-header-transparent { height: 0; margin-top: 20px; background-color: transparent; transition: 0.1s height,background-color,box-shadow; }
 
-html[data-scroll-status='top'] header.site-header-transparent.site-header .site-brand-inner, html[data-scroll-status='top'] header.site-header-transparent.site-header .page-link { color: #fff; transition: 0.1s color; }
+html[data-scroll-status='top'] header.site-header-transparent.site-header .site-brand-inner, html[data-scroll-status='top'] header.site-header-transparent.site-header .page-link { color: #313b3f; transition: 0.1s color; }
 
-@media screen and (max-width: 800px) { html[data-scroll-status='top'] header.site-header-transparent.site-header .page-link { color: unset; } html[data-scroll-status='top'] header.site-header-transparent.site-header .menu-icon > svg { fill: #fdfdfd; } }
+@media screen and (max-width: 800px) { html[data-scroll-status='top'] header.site-header-transparent.site-header .page-link { color: unset; } html[data-scroll-status='top'] header.site-header-transparent.site-header .menu-icon > svg { fill: #313b3f; } }
 
 html[data-scroll-status='top'] footer.site-footer { background-color: transparent; }
 
