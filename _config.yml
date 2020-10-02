@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Working Title Podcast
-author: Matt Winchester
+author: Emily and Matt Winchester
 email: workingtitlepodcastemail@gmail.com
 description: Home of The Working Title Podcast
 twitter_username: WorkingTitlePodcast
@@ -25,7 +25,7 @@ copyright: Copyright © 2020
 yat:
   date_format: "%d %b %Y"
 description: >-
-  This is the description for our beautiful website.
+  The Working Title Podcast.
 # Build settings
 
 # If you want more debug log, you can set true
@@ -73,7 +73,7 @@ defaults:
   home:
     heading: ""
     subheading: ""
-    banner: "../assets/images/square_full.png"
+    banner: "../assets/images/Website Header.png"
 # Pagination setting
 # paginate: 5
 
