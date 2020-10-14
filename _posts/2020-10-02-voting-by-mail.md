@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Episode 1 - "Please please please, vote!"
+title: Episode 1 - "Please Please Please, Vote!"
 categories: voting mail absentee ballot vote
 ---
-## Episode One - "Please please please, vote!"
+## Episode One - "Please Please Please, Vote!"
 
 <div id="buzzsprout-player-5839024"></div>
 <script src="https://www.buzzsprout.com/1410550/5839024-please-please-please-vote.js?container_id=buzzsprout-player-5839024&player=small" type="text/javascript" charset="utf-8"></script>

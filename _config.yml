@@ -71,7 +71,7 @@ defaults:
   home:
     heading: ""
     subheading: ""
-    banner: "../assets/images/Website Header.png"
+    banner: "assets/images/TATA_Header.png"
 # Pagination setting
 # paginate: 5
 
