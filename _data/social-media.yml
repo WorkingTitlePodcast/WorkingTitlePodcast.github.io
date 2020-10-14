@@ -1,0 +1,37 @@
+email:
+  id: 'workingtitlepodcastemail@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa fa-envelope-square'
+
+facebook:
+  id: 'TheWorkingTitlePodcast'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa fa-facebook'
+
+instagram:
+  id: 'theworkingtitle_podcast'
+  href: 'https://instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fa fa-instagram'
+
+spotify:
+  id: '7cOZFRsXa7jBRPyPsrRVAP?si=K_nhv39oQZyXidhm_kJYlQ'
+  href: 'https://open.spotify.com/show/'
+  title: 'Spotify'
+  fa-icon: 'fa fa-spotify'
+
+apple:
+  id: 'talk-across-the-aisle/id1535399449'
+  href: 'https://podcasts.apple.com/us/podcast/'
+  title: 'Apple Podcasts'
+  fa-icon: 'fas fa-podcast'  
+
+
+youtube:
+  id: 'UCgWmvcrGF5abaalJW2li6yA'
+  href: 'https://www.youtube.com/channel/'
+  title: 'YouTube'
+  fa-icon: 'fab fa-youtube'
+
