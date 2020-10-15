@@ -20,7 +20,7 @@ description: Home of The Working Title Podcast
 twitter_username: WorkingTitlePodcast
 github_username:  WorkingTitlePodcast
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://workingtitlepodcast.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 copyright: Copyright © 2020
 yat:
   date_format: "%d %b %Y"
