@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Episode 1 - "Please please please, vote!"
+title: Ep. 1 - "Please Please Please, Vote!"
 categories: voting mail absentee ballot vote
 ---
-## Episode One - "Please please please, vote!"
+## Ep. 1 - "Please Please Please, Vote!"
 
-![](https://soundcloud.com/working-title-podcast/1-vote-gosh-darn-it-just-vote)
+<div id="buzzsprout-player-5839024"></div>
+<script src="https://www.buzzsprout.com/1410550/5839024-please-please-please-vote.js?container_id=buzzsprout-player-5839024&player=small" type="text/javascript" charset="utf-8"></script>
+
 <br/>
 Matt and Emily discuss mail in voting and absentee ballots – how do you do it? Why should you do it? Where can I do? Is it safe to do it? Basically, Matt has a lot of questions and Emily is going to try to talk slow and answer most of them.
 ## Shownotes
@@ -26,7 +28,7 @@ _Thanks for your email. Absentee (Vote-by-Mail) ballots are counted the same as 
 
 _When you vote early or at the polls, your ID and signature are verified when you receive your ballot. With the Vote-by-Mail ballot, the voter signs the certificate on the back of the envelope containing their ballot. Trained staff match the envelope signature with the signature on file on the voter’s record. If the signature is matched, it is accepted for tabulation. If the signature is different or missing, the voter is notified and provided an affidavit to “cure” the signature issue._
 
-_I’m attaching a link to the Florida Division of Elections you may find helpful on voting by mail. https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/._
+_I’m attaching a link to the Florida Division of Elections you may find helpful on voting by mail. <https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/>._
 
 _Sincerely,_
 _Christine Rebuck_

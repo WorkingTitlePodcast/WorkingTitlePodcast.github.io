@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-<h2>About "The Working Title Podcast"</h2>
+## About "Talk Across The Aisle"
 <p>
     Matt and Emily started dating in November of 2016, so they’ve had a lot of politics to talk about from the beginning, and have managed to do so civilly, kindly and still get into bed with each other at the end of the day.
     Every time you check out social media, watch the news, or gather around the dinner table you can watch conversations devolve into nasty arguments with name calling, insult trading, and subsequent unfriending. 
@@ -13,7 +13,7 @@ title: About
     But they can promise to be on their best behavior, be respectful of one another, and to share it with you. Join in on the discussion!
 </p>
 
-<h2>About Emily</h2>
+## About Emily
 
 <p>
     Emily is a graduate student currently pursuing a dual degree in nonprofit management and public administration. She works as a graduate assistant in University of Central Florida’s Office of Multicultural Academic & Support Services.
@@ -22,10 +22,11 @@ title: About
     When Emily’s not working or studying, she really enjoys playing board games, taking naps and reading political books.  Emily loves flamingos, carbs, Disney World, donuts and Ruth Bader Ginsburg (RIP). Emily also likes being involved with various student organizations and professional associations – like too involved. Matt regularly has to talk her out of adding more things to her plate. How will this podcast fit into her busy schedule? She has no idea, but hopes you enjoy it!! 
 </p>
 
-<h2>About Matt</h2>
+## About Matt
 
 <p>
-    Matt likes to code, and had a lot of fun making this website and learning the basics of making a podcast. Matt knows there's still a lot to do, and looks forward to recording cool stuff with his wife.
+    Matt loves to code, and had a lot of fun making this website and learning the basics of making a podcast. Matt knows there's still a lot to do, but looks forward to recording informative (and hopefully useful) podcasts with his wife.
     Matt graduated from UCF in 2018 with a degree in Computer Science, and works as a Software Engineer. 
-    While a man of fewer words than his wife, Matt hopes this podcast will be useful to those who listen and help get factual information to those who need it most: the voting public.
+    Matt enjoys being involved in his community, and is trying to get others to do the same. 
+    While a man of fewer words than his wife, Matt hopes this podcast will be useful to those who listen, and will get factual information to those who need it. 
 </p>

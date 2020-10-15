@@ -13,19 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Working Title Podcast
+title: Talk Across The Aisle
 author: Emily and Matt Winchester
 email: workingtitlepodcastemail@gmail.com
-description: Home of The Working Title Podcast
-twitter_username: WorkingTitlePodcast
+twitter_username: TalkAcrossTheAisle
 github_username:  WorkingTitlePodcast
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://workingtitlepodcast.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 copyright: Copyright © 2020
 yat:
   date_format: "%d %b %Y"
-description: >-
-  The Working Title Podcast.
+description: Talk Across The Aisle
 # Build settings
 
 # If you want more debug log, you can set true
@@ -56,12 +54,12 @@ theme_color: snowwhite
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
-#   - categories.html
-#   - tags.html
-#   - about.md
+header_pages:
+  - index.html
+  - archives.html
+  - categories.html
+  - about.md
+  - resources.md
 
 # Page default value
 # defaults:
@@ -73,7 +71,7 @@ defaults:
   home:
     heading: ""
     subheading: ""
-    banner: "../assets/images/Website Header.png"
+    banner: "assets/images/TATA_Header.png"
 # Pagination setting
 # paginate: 5
 
