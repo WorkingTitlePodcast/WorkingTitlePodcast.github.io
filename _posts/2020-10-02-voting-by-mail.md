@@ -9,8 +9,10 @@ categories: voting mail absentee ballot vote
 <script src="https://www.buzzsprout.com/1410550/5839024-please-please-please-vote.js?container_id=buzzsprout-player-5839024&player=small" type="text/javascript" charset="utf-8"></script>
 
 <br/>
-Matt and Emily discuss mail in voting and absentee ballots – how do you do it? Why should you do it? Where can I do? Is it safe to do it? Basically, Matt has a lot of questions and Emily is going to try to talk slow and answer most of them.
+
 ## Shownotes
+
+Matt and Emily discuss mail in voting and absentee ballots – how do you do it? Why should you do it? Where can I do? Is it safe to do it? Basically, Matt has a lot of questions and Emily is going to try to talk slow and answer most of them.
 
 **Here is a transcript of an email Matt sent to the Orange County Supervisor of Elections, regarding the treatment of absentee ballots.**
 
